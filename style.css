@@ -9,7 +9,7 @@ header{
     background-image: linear-gradient(to right, #2929fad8, #0000ff52);
     align-items: center;
     justify-content: space-between;
-    height: 12vh;
+    height: 13vh;
 }
 
 header a{
@@ -42,37 +42,37 @@ h1{
 }
 
 main{
-    max-width: ;
-    margin: ;
-    padding: ;
+    max-width:80WX ;
+    margin:auto ;
+    padding:3px ;
 }
 
 main > p{
-    font-family: ;
-    width: ;
-    margin: ;
-    text-align: ;
-    text-indent: ;
+    font-family:sans-serif ;
+    width: 50%;
+    margin: 0auto;
+    text-align:justify;
+    text-indent: 1.2km;
 }
 
 section{
-    display: ;
-    flex-wrap: ;
-    justify-content: ;
+    display:flex ;
+    flex-wrap:wrap;
+    justify-content:center ;
 }
 
 section div{
-    flex-basis: ;
-    margin: ;
+    flex-basis: 350px;
+    margin:10px ;
 }
 
 section div img{
-    width: ;
+    width:100% ;
 }
 
 h5{
-    margin: ;
-    text-align: ;
+    margin:auto ;
+    text-align:center ;
 }
 
 .container-footer{
